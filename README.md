@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Ali! 👋
 
-<!--
-**AliG023/AliG023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Former Aircraft Engineer turned Software Engineering Student currently studying. 
+I am a passionate problem solvier and love learning new skills as well as working with others on projects with innovative solutions. 
+
+- 🌱 Currently learning: C# and Python
+- 🔭 Working on: My first App using React Native
+- 🌍 Languages: English
+- ⚡ Fun fact: I spent 8 years serving as an Aircraft Engineer in the Royal Air Force (UK).
+
+## My Skills 🧠
+
+-- HTML , CSS
+-- Basic Python
+-- Basic C#
+
+## Featured Projects 💻
+
+### COMING SOON
+
+## Get in Touch 📬
+
+- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/alastair-graham-023/))
