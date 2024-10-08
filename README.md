@@ -1,7 +1,7 @@
 # Hey, I'm Ali! 👋
 
 
-## About Me 🚀
+## About Me ✈️
 
 I'm a Former Aircraft Engineer turned Software Engineering Student currently studying. 
 I am a passionate problem solvier and love learning new skills as well as working with others on projects with innovative solutions. 
