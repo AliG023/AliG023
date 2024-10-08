@@ -13,9 +13,9 @@ I am a passionate problem solvier and love learning new skills as well as workin
 
 ## My Skills 🧠
 
--- HTML , CSS
--- Basic Python
--- Basic C#
+- HTML , CSS
+- Basic Python
+- Basic C#
 
 ## Featured Projects 💻
 
