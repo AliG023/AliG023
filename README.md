@@ -23,4 +23,4 @@ I am a passionate problem solvier and love learning new skills as well as workin
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/alastair-graham-023/))
+- **[LinkedIn]** (https://www.linkedin.com/in/alastair-graham-023/)
