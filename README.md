@@ -3,7 +3,7 @@
 
 ## About Me ✈️
 
-I'm a Former Aircraft Engineer turned Software Engineering Student currently studying. 
+I'm a former Aircraft Engineer turned Software Engineering Student currently studying. 
 I am a passionate problem solver and love learning new skills as well as working with others on projects with innovative solutions. 
 
 - 🌱 Currently learning: C# and Python
