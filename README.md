@@ -21,6 +21,7 @@ I am a passionate problem solver and love learning new skills as well as working
 ## What I'm Working On  ✏️
 
 # [COMP213](https://alig023.github.io/COMP213/)
+# [COMP125](https://alig023.github.io/COMP125/)
 
 
 ## Featured Projects 💻
