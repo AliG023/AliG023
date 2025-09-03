@@ -1,7 +1,7 @@
 # Hey, I'm Ali! 👋
 
 
-## About Me ✈️
+## About Me:
 
 I'm a former Aircraft Engineer turned Software Engineering Student currently studying. 
 I am a passionate problem solver and love learning new skills as well as working with others on projects with innovative solutions. 
@@ -12,24 +12,26 @@ I am a passionate problem solver and love learning new skills as well as working
 - ⚡ Fun fact: I spent 8 years serving as an Aircraft Engineer in the Royal Air Force (UK).
 - ✈️ I have travelled to over 42 different countries.
 
-## My Skills 🧠
+## Skills:
 
 - HTML , CSS
+- Basic JavaScript
+- C#
 - Basic Python
-- Basic C#
+- Basic Java
 
-## Academic Projects  ✏️
+## Academic Projects:
 
 # [COMP213](https://alig023.github.io/COMP213/)
 # [COMP125](https://alig023.github.io/COMP125/)
 # [COMP228](https://alig023.github.io/COMP228/)
 
 
-## Featured Projects 💻
+## Featured Projects:
 
 ### COMING SOON
 
 
-## Get in Touch 📬
+## Get in Touch:
 
 - [LinkedIn](https://www.linkedin.com/in/alastair-graham-023/)
