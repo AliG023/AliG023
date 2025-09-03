@@ -22,8 +22,8 @@ I am a passionate problem solver and love learning new skills as well as working
 
 ## Academic Projects:
 
-# [COMP213](https://alig023.github.io/COMP213/)
-# [COMP125](https://alig023.github.io/COMP125/)
+# [COMP213](https://alig023.github.io/COMP213/) - Web Interface Design
+# [COMP125](https://alig023.github.io/COMP125/) - Client-side Web Development
 # [COMP228](https://github.com/AliG023/COMP228) - Java Programming
 
 
