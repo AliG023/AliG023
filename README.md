@@ -24,7 +24,7 @@ I am a passionate problem solver and love learning new skills as well as working
 
 # [COMP213](https://alig023.github.io/COMP213/)
 # [COMP125](https://alig023.github.io/COMP125/)
-# [COMP228](https://alig023.github.io/COMP228/)
+# [COMP228]([https://alig023.github.io/COMP228/](https://github.com/AliG023/COMP228))
 
 
 ## Featured Projects:
