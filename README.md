@@ -6,7 +6,7 @@
 I'm a former Aircraft Engineer turned Software Engineering Student currently studying. 
 I am a passionate problem solver and love learning new skills as well as working with others on projects with innovative solutions. 
 
-- 🌱 Currently learning: C#, Java and JavaScript.
+- 🌱 Currently learning: Java and JavaScript.
 - 🔭 Working on: My first App using React Native.
 - 🌍 Languages: English.
 - ⚡ Fun fact: I spent 8 years serving as an Aircraft Engineer in the Royal Air Force (UK).
